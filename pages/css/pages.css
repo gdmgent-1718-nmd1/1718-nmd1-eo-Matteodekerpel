@@ -11,6 +11,121 @@ body {
     padding: 25px;
 }
 
+nav {font-family: 'Oswald'; 
+    font-size: 45px;
+    font-variant: small small-caps ;
+    font-weight: normal;
+    background-color:hsla(342, 60%, 62%, 1);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+
+body{
+    background-image: url("/Users/Matteo/Desktop/feb17-blue-skate-860x480.gif");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-attachment: fixed;
+    color:hsla(342, 60%, 62%, 1);
+}
+
+h1{
+    font-size: 98px;
+    font-family: 'Oswald';
+    font-weight: normal;
+    font-variant: small-caps;
+    color:  hsla(342, 60%, 62%, 1);
+    background-color: #000;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+h2{
+    font-family: 'Oswald'; 
+    font-size: 75px;
+    font-weight: normal;
+    font-variant: small-caps;
+    color: #050505 ;
+    background-color: hsla(342, 60%, 62%, 1);
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+h3{
+    font-family: 'Oswald'; 
+    font-size: 45px;
+    font-variant: small small-caps ;
+    font-weight: normal;
+    background-color: hsla(342, 60%, 62%, 1);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+h4,
+h5,
+h6,
+.keywords {
+    font-family: 'Oswald', sans-serif;
+}
+p {
+    font-family: 'Oswald' , sans-serif;
+    font-weight: normal;
+    line-height: 2;
+    color:hsla(0, 0%, 62%, 1);
+    background-color: hsl(  0,  0%, 4%);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+#header{
+    width: 960px;
+}
+
+div{
+    background-color: #050505;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+
+
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
